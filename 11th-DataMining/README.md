@@ -4,14 +4,14 @@
 
 https://tianchi.aliyun.com/competition/entrance/231784/introduction
 
-2019.03.21-
+Start time: 2019.03.21
 
-> - Task01：赛题理解（1Day）
+* Task01：赛题理解（1Day）
 
-> - Task02：数据的探索性分析（EDA）（3Day）
+* Task02：数据的探索性分析（EDA）（3Day）
 
-> - Task03：数据的特征工程（3Day）
+* Task03：数据的特征工程（3Day）
 
-> - Task04：建模与调参（4Day）
+* Task04：建模与调参（4Day）
 
-> - Task05：模型结果融合（3Day）
+* Task05：模型结果融合（3Day）
